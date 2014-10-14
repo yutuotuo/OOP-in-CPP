@@ -1,0 +1,17 @@
+// Lab 1a
+// Programmer: Aaron Melocik
+// Editor(s) used: Code::Blocks 12.11
+// Compiler(s) used: GNU GCC
+
+Set total to zero
+Set grade counter to one
+
+While grade counter is less than or equal to ten
+  Prompt the user to enter the next grade
+  Input the next grade
+  Add the grade into the total
+  Add one to the grade counter
+
+Set the class average to the total divided by ten
+Print the total of the grades for all the students in the class
+Print the class average.

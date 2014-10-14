@@ -1,0 +1,79 @@
+Programmer: Aaron Melocik
+Description: modify GeometryHomework to apply
+Polymorphism, abstract, and virtual ideas.
+-------------------------------
+
+   ERROR:  SPHERES is an invalid object
+   ERROR:  square is an invalid object
+   ERROR:  TRIANGLE is an invalid object
+TEMP "sizeof(shapes)" = 12
+CIRCLE:    radius= 10, area=314.16, circumference=62.83
+CUBE:      side=   20, surface area=2400.00, volume=8000.00
+CYLINDER:  radius= 30, height=0, surface area=5654.87, volume=0.00
+PRISM:     length= 40, width=41, height=42, surface area=10084.00, volume=68880.00
+RECTANGLE: length= 5, width=5.1, area=25.50, perimeter=20.20
+SQUARE:    side=   6.6, area=43.56, perimeter=26.40
+SQUARE:    side=   48.5, area=2352.25, perimeter=194.00
+RECTANGLE: length= 17, width=0, area=0.00, perimeter=34.00
+CIRCLE:    radius= 1.24, area=4.83, circumference=7.79
+CUBE:      side=   99, surface area=58806.00, volume=970299.00
+PRISM:     length= 0, width=0.21, height=25, surface area=10.50, volume=0.00
+PRISM:     length= 45.4867, width=0.21, height=25, surface area=2303.94, volume=238.81
+TEMP now loop 2:
+
+CIRCLE:    radius= 10, area=314.16, circumference=62.83
+CUBE:      side=   20, surface area=2400.00, volume=8000.00
+CYLINDER:  radius= 30, height=0, surface area=5654.87, volume=0.00
+PRISM:     length= 40, width=41, height=42, surface area=10084.00, volume=68880.00
+RECTANGLE: length= 5, width=5.1, area=25.50, perimeter=20.20
+SQUARE:    side=   6.6, area=43.56, perimeter=26.40
+SQUARE:    side=   48.5, area=2352.25, perimeter=194.00
+RECTANGLE: length= 17, width=0, area=0.00, perimeter=34.00
+CIRCLE:    radius= 1.24, area=4.83, circumference=7.79
+CUBE:      side=   99, surface area=58806.00, volume=970299.00
+PRISM:     length= 0, width=0.21, height=25, surface area=10.50, volume=0.00
+PRISM:     length= 45.4867, width=0.21, height=25, surface area=2303.94, volume=238.81
+CYLINDER:  radius= 1.23, height=0, surface area=9.51, volume=0.00
+RECTANGLE: length= 50, width=1.23, area=61.50, perimeter=102.46
+CYLINDER:  radius= 1.2, height=3.2, surface area=33.18, volume=14.48
+CUBE:      side=   1.2, surface area=8.64, volume=1.73
+CIRCLE:    radius= 2.3, area=16.62, circumference=14.45
+CYLINDER:  radius= 3.4, height=4.5, surface area=168.77, volume=163.43
+PRISM:     length= 5.6, width=6.7, height=7.8, surface area=266.92, volume=292.66
+RECTANGLE: length= 8.9, width=9, area=80.10, perimeter=35.80
+SQUARE:    side=   10.1, area=102.01, perimeter=40.40
+   Circle deconstructor called
+   Cube deconstructor called
+   Square deconstructor called
+   Cylinder deconstructor called
+   Circle deconstructor called
+   Prism deconstructor called
+   Rect deconstructor called
+   Rect deconstructor called
+   Square deconstructor called
+   Square deconstructor called
+   Rect deconstructor called
+   Circle deconstructor called
+   Cube deconstructor called
+   Square deconstructor called
+   Prism deconstructor called
+   Rect deconstructor called
+   Prism deconstructor called
+   Rect deconstructor called
+   Cylinder deconstructor called
+   Circle deconstructor called
+   Rect deconstructor called
+   Cylinder deconstructor called
+   Circle deconstructor called
+   Cube deconstructor called
+   Square deconstructor called
+   Circle deconstructor called
+   Cylinder deconstructor called
+   Circle deconstructor called
+   Prism deconstructor called
+   Rect deconstructor called
+   Rect deconstructor called
+   Square deconstructor called
+
+Process returned 0 (0x0)   execution time : 0.116 s
+Press any key to continue.
